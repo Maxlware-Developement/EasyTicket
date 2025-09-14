@@ -1,0 +1,315 @@
+{
+    "1410214724389441549": {
+        "1410564584716243004": {
+            "type": "postuler",
+            "owner": "1313829582066941976",
+            "ownerName": "donquiecongue",
+            "poste": "jjjjj",
+            "age": "jjjjjj",
+            "pkvous": "jjjjjjjj",
+            "motivations": "jjjjjjj",
+            "grdOui": [],
+            "grdNon": [],
+            "jsonRender": {
+                "1410564587262316545": {
+                    "content": "<p><span class=\"mention\">@Poulpe Glacé</span></p>\n",
+                    "embeds": [
+                        {
+                            "author": {},
+                            "title": null,
+                            "description": "<h2>Bienvenue sur votre ticket !</h2>\n<p>Type du ticket : <span class=\"bold\">postuler</span>\nOuvert : <span class=\"bold\">Le jeudi 28 août 2025 à 11:59:58</span>\nPoste demandé : <span class=\"bold\">jjjjj</span>\nÂge : <span class=\"bold\">jjjjjj</span>\nMotivations : <span class=\"bold\">jjjjjjj</span>\nPourquoi voulez-vous être staff ?\n<code>jjjjjjjj</code></p>\n<h3>Veuillez patienter quelques instants, une personne du Staff vous répondra sous peu :hugging:.</h3>\n",
+                            "footer": {},
+                            "reactions": []
+                        }
+                    ],
+                    "buttons": [],
+                    "modified": null,
+                    "author": {
+                        "id": "1222311549478371460",
+                        "tag": "Ticket.sys#5158",
+                        "username": "Ticket.sys",
+                        "globalName": null,
+                        "bot": true,
+                        "avatar": "https://cdn.discordapp.com/avatars/1222311549478371460/121e928628d1ff5d2e6fd219b2c5573f.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 11:59"
+                }
+            }
+        },
+        "1410565229808455712": {
+            "type": "postuler",
+            "owner": "1313829582066941976",
+            "ownerName": "donquiecongue",
+            "poste": "bbbbbbbbbbb",
+            "age": "bbbbbb",
+            "pkvous": "bbbbbbbbbbbbbbb",
+            "motivations": "bbbbbbb",
+            "grdOui": [
+                "1313829582066941976"
+            ],
+            "grdNon": [],
+            "jsonRender": {
+                "1410565230949564461": {
+                    "content": "<p><span class=\"mention\">@Poulpe Glacé</span></p>\n",
+                    "embeds": [
+                        {
+                            "author": {},
+                            "title": null,
+                            "description": "<h2>Bienvenue sur votre ticket !</h2>\n<p>Type du ticket : <span class=\"bold\">postuler</span>\nOuvert : <span class=\"bold\">Le jeudi 28 août 2025 à 12:02:32</span>\nPoste demandé : <span class=\"bold\">bbbbbbbbbbb</span>\nÂge : <span class=\"bold\">bbbbbb</span>\nMotivations : <span class=\"bold\">bbbbbbb</span>\nPourquoi voulez-vous être staff ?\n<code>bbbbbbbbbbbbbbb</code>Pris en charge par : <span class=\"bold\">&lt;@1167492796295413920&gt;</span></p>\n",
+                            "footer": {
+                                "text": "Powered by ikikrepus community"
+                            },
+                            "reactions": []
+                        }
+                    ],
+                    "buttons": [
+                        {
+                            "emoji": "",
+                            "label": "🔒 Fermer",
+                            "style": "danger",
+                            "link": null
+                        },
+                        {
+                            "emoji": "",
+                            "label": "🙋‍♂️ Traiter",
+                            "style": "success",
+                            "link": null
+                        }
+                    ],
+                    "modified": 1756376989213,
+                    "author": {
+                        "id": "1222311549478371460",
+                        "tag": "Ticket.sys#5158",
+                        "username": "Ticket.sys",
+                        "globalName": null,
+                        "bot": true,
+                        "avatar": "https://cdn.discordapp.com/avatars/1222311549478371460/121e928628d1ff5d2e6fd219b2c5573f.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:29"
+                },
+                "1410565507353935927": {
+                    "content": "<p>blablabla</p>\n",
+                    "embeds": [],
+                    "buttons": [],
+                    "modified": null,
+                    "author": {
+                        "id": "1313829582066941976",
+                        "tag": "donquiecongue",
+                        "username": "donquiecongue",
+                        "globalName": "Poulpe Glacé",
+                        "bot": false,
+                        "avatar": "https://cdn.discordapp.com/avatars/1313829582066941976/1b6b40b0e34dcea9dcae0030bdd7c457.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:03"
+                },
+                "1410572071398019162": {
+                    "content": "<p><span class=\"mention\">@Poulpe Glacé</span></p>\n",
+                    "embeds": [
+                        {
+                            "author": {},
+                            "title": null,
+                            "description": "Le ticket sera traité par &lt;@1167492796295413920&gt;\n",
+                            "footer": {
+                                "text": "Powered by ikikrepus community"
+                            },
+                            "reactions": []
+                        }
+                    ],
+                    "buttons": [],
+                    "modified": null,
+                    "author": {
+                        "id": "1222311549478371460",
+                        "tag": "Ticket.sys#5158",
+                        "username": "Ticket.sys",
+                        "globalName": null,
+                        "bot": true,
+                        "avatar": "https://cdn.discordapp.com/avatars/1222311549478371460/121e928628d1ff5d2e6fd219b2c5573f.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:29"
+                }
+            },
+            "first": "1410565230949564461",
+            "traiteur": "1167492796295413920"
+        },
+        "1410565564329492592": {
+            "type": "aide",
+            "owner": "1313829582066941976",
+            "jsonRender": {
+                "1410565565784785047": {
+                    "content": "<p><span class=\"mention\">@Poulpe Glacé</span></p>\n",
+                    "embeds": [
+                        {
+                            "author": {},
+                            "title": null,
+                            "description": "<h2>Bienvenue sur votre ticket !</h2>\n<p>Type du ticket : <span class=\"bold\">aide</span>\nOuvert : <span class=\"bold\">Le jeudi 28 août 2025 à 12:03:52</span></p>\n<h3>Veuillez patienter quelques instants, une personne du Staff vous répondra sous peu :hugging:.</h3>\n",
+                            "footer": {},
+                            "reactions": []
+                        }
+                    ],
+                    "buttons": [
+                        {
+                            "emoji": "",
+                            "label": "🔒 Fermer",
+                            "style": "danger",
+                            "link": null
+                        },
+                        {
+                            "emoji": "",
+                            "label": "🙋‍♂️ Traiter",
+                            "style": "success",
+                            "link": null
+                        }
+                    ],
+                    "modified": 1756375438370,
+                    "author": {
+                        "id": "1222311549478371460",
+                        "tag": "Ticket.sys#5158",
+                        "username": "Ticket.sys",
+                        "globalName": null,
+                        "bot": true,
+                        "avatar": "https://cdn.discordapp.com/avatars/1222311549478371460/121e928628d1ff5d2e6fd219b2c5573f.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:03"
+                }
+            },
+            "first": "1410565565784785047"
+        },
+        "1410565704876425276": {
+            "type": "partenariat",
+            "owner": "1313829582066941976",
+            "ownerName": "donquiecongue",
+            "themeduprojet": "le dev",
+            "dsclink": "https://discord.gg/maxlware",
+            "jsonRender": {
+                "1410565706654814219": {
+                    "content": "<p><span class=\"mention\">@Poulpe Glacé</span></p>\n",
+                    "embeds": [
+                        {
+                            "author": {},
+                            "title": null,
+                            "description": "<h2>Bienvenue sur votre ticket !</h2>\n<p>Type du ticket : <span class=\"bold\">partenariat</span>\nOuvert : <span class=\"bold\">Le jeudi 28 août 2025 à 12:04:25</span>\nThème du projet : <span class=\"bold\">le dev</span>\nLien du serveur Discord : <span class=\"bold\"><a href=\"https://discord.gg/maxlware\">https://discord.gg/maxlware</a></span></p>\n<h3>Veuillez patienter quelques instants, une personne du Staff vous répondra sous peu :hugging:.</h3>\n",
+                            "footer": {},
+                            "reactions": []
+                        }
+                    ],
+                    "buttons": [
+                        {
+                            "emoji": "",
+                            "label": "🔒 Fermer",
+                            "style": "danger",
+                            "link": null
+                        },
+                        {
+                            "emoji": "",
+                            "label": "🙋‍♂️ Traiter",
+                            "style": "success",
+                            "link": null
+                        }
+                    ],
+                    "modified": 1756375471972,
+                    "author": {
+                        "id": "1222311549478371460",
+                        "tag": "Ticket.sys#5158",
+                        "username": "Ticket.sys",
+                        "globalName": null,
+                        "bot": true,
+                        "avatar": "https://cdn.discordapp.com/avatars/1222311549478371460/121e928628d1ff5d2e6fd219b2c5573f.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:04"
+                },
+                "1410565808433659914": {
+                    "content": "<p>blablabla</p>\n",
+                    "embeds": [],
+                    "buttons": [],
+                    "modified": null,
+                    "author": {
+                        "id": "1313829582066941976",
+                        "tag": "donquiecongue",
+                        "username": "donquiecongue",
+                        "globalName": "Poulpe Glacé",
+                        "bot": false,
+                        "avatar": "https://cdn.discordapp.com/avatars/1313829582066941976/1b6b40b0e34dcea9dcae0030bdd7c457.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:04"
+                }
+            },
+            "first": "1410565706654814219"
+        },
+        "1410565840004448356": {
+            "type": "autre",
+            "owner": "1313829582066941976",
+            "jsonRender": {
+                "1410565841358946427": {
+                    "content": "<p><span class=\"mention\">@Poulpe Glacé</span></p>\n",
+                    "embeds": [
+                        {
+                            "author": {},
+                            "title": null,
+                            "description": "<h2>Bienvenue sur votre ticket !</h2>\n<p>Type du ticket : <span class=\"bold\">autre</span>\nOuvert : <span class=\"bold\">Le jeudi 28 août 2025 à 12:04:57</span></p>\n<h3>Veuillez patienter quelques instants, une personne du Staff vous répondra sous peu :hugging:.</h3>\n",
+                            "footer": {},
+                            "reactions": []
+                        }
+                    ],
+                    "buttons": [
+                        {
+                            "emoji": "",
+                            "label": "🔒 Fermer",
+                            "style": "danger",
+                            "link": null
+                        },
+                        {
+                            "emoji": "",
+                            "label": "🙋‍♂️ Traiter",
+                            "style": "success",
+                            "link": null
+                        }
+                    ],
+                    "modified": 1756375503930,
+                    "author": {
+                        "id": "1222311549478371460",
+                        "tag": "Ticket.sys#5158",
+                        "username": "Ticket.sys",
+                        "globalName": null,
+                        "bot": true,
+                        "avatar": "https://cdn.discordapp.com/avatars/1222311549478371460/121e928628d1ff5d2e6fd219b2c5573f.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:04"
+                },
+                "1410565869590806672": {
+                    "content": "<p>bla</p>\n",
+                    "embeds": [],
+                    "buttons": [],
+                    "modified": null,
+                    "author": {
+                        "id": "1313829582066941976",
+                        "tag": "donquiecongue",
+                        "username": "donquiecongue",
+                        "globalName": "Poulpe Glacé",
+                        "bot": false,
+                        "avatar": "https://cdn.discordapp.com/avatars/1313829582066941976/1b6b40b0e34dcea9dcae0030bdd7c457.webp?size=128",
+                        "color": "992d22"
+                    },
+                    "images": [],
+                    "date": "28/08/2025 12:05"
+                }
+            },
+            "first": "1410565841358946427"
+        }
+    }
+}
