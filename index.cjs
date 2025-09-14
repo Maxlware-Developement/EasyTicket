@@ -3,6 +3,11 @@ const token=process.env.TOKEN;
 const { Client, GatewayIntentBits, SlashCommandBuilder, REST, Routes, EmbedBuilder, ChannelType, PermissionFlagsBits, ButtonBuilder, ButtonStyle, ActionRowBuilder, ActivityType, ModalBuilder, TextInputBuilder, TextInputStyle, StringSelectMenuBuilder, MessageFlags, InteractionType, TextDisplayBuilder, ContainerBuilder } = require('discord.js');
 const fs = require('fs');
 const marked=require('marked');
+const app=require('express')()
+
+app.get('/', (req, res) => res.send('Bot actif'));
+app.listen(443, () => console.log(`Serveur écoutant sur le port 443`));
+
 const client=new Client({
 	intents: [
 	  GatewayIntentBits.Guilds,
